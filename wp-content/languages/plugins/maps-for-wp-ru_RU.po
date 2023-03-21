@@ -1,0 +1,240 @@
+# Translation of Plugins - Maps for WP - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Maps for WP - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-09-17 20:39:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Maps for WP - Stable (latest release)\n"
+
+#. Description of the plugin
+msgid "A handy plugin for inserting Yandex and Google maps using shortcode."
+msgstr "Удобный плагин для вставки Яндекса и Google карт с использованием шорткода."
+
+#: settings.php:216
+msgid "Text when clicking on a point"
+msgstr "Текст при клике на точку"
+
+#: settings.php:215
+msgid "Text when pointing to a point"
+msgstr "Текст при наведении на точку"
+
+#: settings.php:214 settings.php:225
+msgid "URL image markers"
+msgstr "URL картинок маркеров"
+
+#: settings.php:210 settings.php:221
+msgid "map layer"
+msgstr "слой карты"
+
+#: settings.php:206
+msgid "Examples shotcodes"
+msgstr "Пример шорткодов"
+
+#: settings.php:143
+msgid "Default maps height in pixels"
+msgstr "Высота карт по умолчанию в пикселях"
+
+#: settings.php:140
+msgid "Default maps height"
+msgstr "Высота карт по умолчанию"
+
+#: settings.php:108 settings.php:111
+msgid "Use standard map markers"
+msgstr "Использовать стандартные маркеры карт"
+
+#: settings.php:213 settings.php:224
+msgid "Map height in pixels"
+msgstr "Высота карты в пикселях"
+
+#: settings.php:212 settings.php:223
+msgid "latitude of the center of the map"
+msgstr "широта центра карты"
+
+#: settings.php:211 settings.php:222
+msgid "longitude of the center of the map"
+msgstr "долгота центра карты"
+
+#: settings.php:209 settings.php:220
+msgid "unique id"
+msgstr "уникальный id"
+
+#: settings.php:208 settings.php:219
+msgid "Where"
+msgstr "Где"
+
+#: settings.php:199
+msgid "Leave a request"
+msgstr "Оставить заявку"
+
+#: settings.php:199
+msgid "Accept orders for individual revision of the plugin"
+msgstr "Принимаю заказы на индивидуальную доработку плагина"
+
+#: settings.php:198
+msgid "The author of the plugin Maxim Glazunov"
+msgstr "Автор плагина, Максим Глазунов"
+
+#: settings.php:196
+msgid "Let me know"
+msgstr "Напишите мне"
+
+#: settings.php:196
+msgid "Noticed a bug or have an idea how to improve the quality of the plugin?"
+msgstr "Заметили ошибку или есть идея, как улучшить качество плагина?"
+
+#: settings.php:195
+msgid "Donate now"
+msgstr "Поддержать"
+
+#: settings.php:195
+msgid "Support the project financially. Even $1 is a help!"
+msgstr "Поддержите проект деньгами. Даже 100 рублей - это помощь!"
+
+#: settings.php:194
+msgid "Leave a comment on the plugin page"
+msgstr "Оставить комментарий на странице плагина"
+
+#: settings.php:192
+msgid "If this plugin useful to you, please support the project one way"
+msgstr "Если этот плагин вам полезен, пожалуйста, поддержите проект"
+
+#: settings.php:191
+msgid "answering 5 questions"
+msgstr "ответив на 5 вопросов"
+
+#: settings.php:191
+msgid "Please help make the plugin better"
+msgstr "Помогите сделать плагин лучше"
+
+#: settings.php:190
+msgid "Thank you for using the plugin"
+msgstr "Спасибо, что используете плагин"
+
+#: settings.php:189
+msgid "Please support the project!"
+msgstr "Пожалуйста, поддержите проект!"
+
+#: settings.php:178
+msgid "Click to save the settings"
+msgstr "Нажмите, чтобы сохранить настройки"
+
+#: settings.php:177
+msgid "Save"
+msgstr "Сохранить"
+
+#: settings.php:154
+msgid "Default Zoom map with many points"
+msgstr "Масштаб карты с множеством точек"
+
+#: settings.php:147
+msgid "Default Zoom map with one point"
+msgstr "Масштаб карты с одной точкой"
+
+#: settings.php:134
+msgid "Terrain (only Google Maps)"
+msgstr "Местность (только для Карт Гугл)"
+
+#: settings.php:133
+msgid "Hybrid"
+msgstr "Гибрид"
+
+#: settings.php:132
+msgid "Satellite"
+msgstr "Спутник"
+
+#: settings.php:131
+msgid "Roadmap"
+msgstr "Обычная"
+
+#: settings.php:128
+msgid "Default Type of Maps"
+msgstr "Тип карты"
+
+#: settings.php:102
+msgid "Read more"
+msgstr "Подробнее"
+
+#: settings.php:102
+msgid "Required for Google Maps"
+msgstr "Обязателен для Google Maps"
+
+#: settings.php:99
+msgid "Google Maps API Key"
+msgstr "API ключ Google Maps"
+
+#: settings.php:95 settings.php:136
+msgid "Please note that in order to work correctly with Google Maps, you need to provide an API key"
+msgstr "Обратите внимание, что для правильной работы с Картами Google вам необходимо указать API ключ"
+
+#: settings.php:93
+msgid "Google"
+msgstr "Google"
+
+#: settings.php:92
+msgid "Yandex"
+msgstr "Яндекс"
+
+#: settings.php:89
+msgid "Use maps from"
+msgstr "Использовать карты от"
+
+#: settings.php:86
+msgid "Main parameters"
+msgstr "Основные параметры"
+
+#: settings.php:80
+msgid "Maps for WP Settings"
+msgstr "Настройки Maps for WP"
+
+#: maps-for-wp.php:376
+msgid "Updated"
+msgstr "Обновлено"
+
+#: maps-for-wp.php:368 maps-for-wp.php:372
+msgid "Fill in the \"Google Maps API Key\" field in the plugin&#39;s settings or switch to Yandex maps"
+msgstr "Заполните поле \"API ключ Google Maps\" в настройках плагина или переключитесь на Яндекс карты"
+
+#: maps-for-wp.php:368 maps-for-wp.php:372 settings.php:103
+msgid "You can create an API key here now (free)"
+msgstr "Вы можете получить API ключ тут (бесплатно)"
+
+#: maps-for-wp.php:368 maps-for-wp.php:372 settings.php:102
+msgid "Google Maps require an API key to function"
+msgstr "Для работы карт Гугл обязателен API ключ"
+
+#. Author URI of the plugin
+msgid "https://icopydoc.ru"
+msgstr "https://icopydoc.ru"
+
+#. Author of the plugin
+msgid "Maxim Glazunov"
+msgstr "Максим Глазунов"
+
+#: maps-for-wp.php:142
+msgid "Maps for WP"
+msgstr "Maps for WP"
+
+#: settings.php:150
+msgid "Zoom map with one point"
+msgstr "Масштаб карты с одной точкой"
+
+#: settings.php:165
+msgid "Longitude center map with many points"
+msgstr "Долгота карты с множеством точек"
+
+#: settings.php:161
+msgid "Latitude center map with many points"
+msgstr "Широта центра карты с множеством точек"
+
+#: settings.php:157
+msgid "Zoom map with many points"
+msgstr "Масштаб карты с множеством точек"
+
+#: settings.php:115
+msgid "The image point on the map (36×36)"
+msgstr "Иконка точки на карте (36×36)"
